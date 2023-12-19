@@ -1,10 +1,8 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdityaC-003)
-
 - 👋 Hi, I’m @AdityaC-003
-- 👀 I’m interested in Computer Science.
+- 👋 I'm currently in my 4th Year B.Tech. in Computer Science and Engineering at IIT Madras.
+- 👀 I’m interested in Theoretical Computer Science, Machine Learning and Quant.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me: CAd_CS1975@outlook.com
 
 <!---
 AdityaC-003/AdityaC-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
